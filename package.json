@@ -11,6 +11,7 @@
     "@contentful/rich-text-react-renderer": "^14.1.2",
     "contentful": "^8.1.8",
     "next": "10.0.8",
+    "postcss": "^8.4.23",
     "react": "16.8.6",
     "react-dom": "16.8.6"
   }
